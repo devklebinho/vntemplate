@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c233f8c6b8b0cd46b0a38daec1a201c, type: 3}
+  m_Name: Cena1
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueData
+  Lines:
+  - CharacterName: Narrador
+    DialogueText: "Numa manh\xE3 de sol despontava no horizonte o mar calmo dava
+      para ver os arrecifes de t\xE3o seco que estava o Mar."
+  - CharacterName: Narrador
+    DialogueText: Brasilina uma garota morena pele bronzeada olhos castanhos, acordou
+      e decidiu dar uma caminhada pelas areias da praia do Pina.
