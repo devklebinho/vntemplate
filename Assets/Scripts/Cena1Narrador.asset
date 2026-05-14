@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4c233f8c6b8b0cd46b0a38daec1a201c, type: 3}
-  m_Name: Cena1
+  m_Name: Cena1Narrador
   m_EditorClassIdentifier: Assembly-CSharp::DialogueData
   Lines:
   - CharacterName: Narrador
@@ -19,3 +19,12 @@ MonoBehaviour:
   - CharacterName: Narrador
     DialogueText: Brasilina uma garota morena pele bronzeada olhos castanhos, acordou
       e decidiu dar uma caminhada pelas areias da praia do Pina.
+  - CharacterName: Narrador
+    DialogueText: 'Naquele dia, ela sentia uma felicidade diferente: havia completado
+      14 anos e, pela primeira vez, seus pais permitiram que caminhasse sozinha pelas
+      areias da praia do Pina.'
+  - CharacterName: Narrador
+    DialogueText: "Enquanto caminhava pela praia apreciando o nascer do sol, Brasilina
+      avistou, ao longe, v\xE1rios barcos se aproximando da costa."
+  - CharacterName: Narrador
+    DialogueText: Curiosa, correu pela areia para observar melhor a chegada dos pescadores.

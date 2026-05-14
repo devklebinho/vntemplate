@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c233f8c6b8b0cd46b0a38daec1a201c, type: 3}
+  m_Name: Cena1Dialogo
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueData
+  Lines:
+  - CharacterName: Narrador
+    DialogueText: "Numa manh\xE3 de sol despontava no horizonte o mar calmo dava
+      para ver os arrecifes de t\xE3o seco que estava o Mar."
+  - CharacterName: Narrador
+    DialogueText: Brasilina uma garota morena pele bronzeada olhos castanhos, acordou
+      e decidiu dar uma caminhada pelas areias da praia do Pina.
+  - CharacterName: Narrador
+    DialogueText: 'Naquele dia, ela sentia uma felicidade diferente: havia completado
+      14 anos e, pela primeira vez, seus pais permitiram que caminhasse sozinha pelas
+      areias da praia do Pina.'
+  - CharacterName: Narrador
+    DialogueText: "Enquanto caminhava pela praia apreciando o nascer do sol, Brasilina
+      avistou, ao longe, v\xE1rios barcos se aproximando da costa."
+  - CharacterName: Narrador
+    DialogueText: Curiosa, correu pela areia para observar melhor a chegada dos pescadores.
+  - CharacterName: Brasilina
+    DialogueText: "Que interessante! De onde voc\xEAs s\xE3o?"
+  - CharacterName: ...
+    DialogueText: "A gente \xE9 pescador da Col\xF4nia Z1 do Pina! Me chamo Z\xE9
+      do Bode!"
+  - CharacterName: Brasilina
+    DialogueText: "E o que \xE9 a Col\xF4nia Z1?"
+  - CharacterName: "Z\xE9 do Bode"
+    DialogueText: "A Col\xF4nia Z1 foi a primeira col\xF4nia de pescadores de Pernambuco.
+      Foi a partir dela que come\xE7ou a hist\xF3ria do Pina, l\xE1 pelos anos de
+      1920"
+  - CharacterName: "Z\xE9 do Bode"
+    DialogueText: "E tu? Nunca vi ningu\xE9m com esse nome. Por que te chamam de
+      Brasilina?"
+  - CharacterName: Brasilina
+    DialogueText: "Meus pais disseram que colocaram esse nome porque amam esse lugar.
+      Eles vieram do interior faz uns anos. Chegaram aqui junto com outras fam\xEDlias
+      pra tentar a vida no Pina."
