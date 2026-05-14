@@ -15,5 +15,6 @@ public class DialogueLine
 
     [TextArea(3, 6)]
     public string DialogueText;
+    public GameObject background;
     //public Image imageBox;
 }
