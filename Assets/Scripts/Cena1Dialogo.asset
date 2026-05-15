@@ -16,33 +16,66 @@ MonoBehaviour:
   - CharacterName: Narrador
     DialogueText: "Numa manh\xE3 de sol despontava no horizonte o mar calmo dava
       para ver os arrecifes de t\xE3o seco que estava o Mar."
+    BackgroundSprite: {fileID: -4190791482785546744, guid: 6e45f913e4a29db4f983abcfb808c0b0, type: 3}
+    DialogueBoxSprite: {fileID: -1578018515306247302, guid: bc30a2982c530394fb8686abe1a8e324, type: 3}
+    DialogueBoxPosition: {x: 0, y: 360}
   - CharacterName: Narrador
     DialogueText: Brasilina uma garota morena pele bronzeada olhos castanhos, acordou
       e decidiu dar uma caminhada pelas areias da praia do Pina.
+    BackgroundSprite: {fileID: -5570708879843500298, guid: 374a4bd7851507442ad3b6d3db598ce5, type: 3}
+    DialogueBoxSprite: {fileID: -1578018515306247302, guid: bc30a2982c530394fb8686abe1a8e324, type: 3}
+    DialogueBoxPosition: {x: 0, y: 360}
   - CharacterName: Narrador
     DialogueText: 'Naquele dia, ela sentia uma felicidade diferente: havia completado
       14 anos e, pela primeira vez, seus pais permitiram que caminhasse sozinha pelas
       areias da praia do Pina.'
+    BackgroundSprite: {fileID: -5570708879843500298, guid: 374a4bd7851507442ad3b6d3db598ce5, type: 3}
+    DialogueBoxSprite: {fileID: -1578018515306247302, guid: bc30a2982c530394fb8686abe1a8e324, type: 3}
+    DialogueBoxPosition: {x: 0, y: 360}
   - CharacterName: Narrador
     DialogueText: "Enquanto caminhava pela praia apreciando o nascer do sol, Brasilina
       avistou, ao longe, v\xE1rios barcos se aproximando da costa."
+    BackgroundSprite: {fileID: -5770199197463646300, guid: e4d9d1f74e71c8a478aabed422476b51, type: 3}
+    DialogueBoxSprite: {fileID: 0}
+    DialogueBoxPosition: {x: 440, y: 360}
   - CharacterName: Narrador
     DialogueText: Curiosa, correu pela areia para observar melhor a chegada dos pescadores.
+    BackgroundSprite: {fileID: 7244901189907721657, guid: 236fdd598861ad44cb6d111658f12243, type: 3}
+    DialogueBoxSprite: {fileID: -1578018515306247302, guid: bc30a2982c530394fb8686abe1a8e324, type: 3}
+    DialogueBoxPosition: {x: -400, y: 360}
   - CharacterName: Brasilina
     DialogueText: "Que interessante! De onde voc\xEAs s\xE3o?"
+    BackgroundSprite: {fileID: 0}
+    DialogueBoxSprite: {fileID: -5861103107579520876, guid: b9855384a85900c4d8df846d8e9fc8af, type: 3}
+    DialogueBoxPosition: {x: 0, y: -360}
   - CharacterName: ...
     DialogueText: "A gente \xE9 pescador da Col\xF4nia Z1 do Pina! Me chamo Z\xE9
       do Bode!"
+    BackgroundSprite: {fileID: 0}
+    DialogueBoxSprite: {fileID: -5861103107579520876, guid: b9855384a85900c4d8df846d8e9fc8af, type: 3}
+    DialogueBoxPosition: {x: 0, y: -360}
   - CharacterName: Brasilina
     DialogueText: "E o que \xE9 a Col\xF4nia Z1?"
+    BackgroundSprite: {fileID: 0}
+    DialogueBoxSprite: {fileID: -5861103107579520876, guid: b9855384a85900c4d8df846d8e9fc8af, type: 3}
+    DialogueBoxPosition: {x: 0, y: -360}
   - CharacterName: "Z\xE9 do Bode"
     DialogueText: "A Col\xF4nia Z1 foi a primeira col\xF4nia de pescadores de Pernambuco.
       Foi a partir dela que come\xE7ou a hist\xF3ria do Pina, l\xE1 pelos anos de
       1920"
+    BackgroundSprite: {fileID: 0}
+    DialogueBoxSprite: {fileID: -5861103107579520876, guid: b9855384a85900c4d8df846d8e9fc8af, type: 3}
+    DialogueBoxPosition: {x: 0, y: -360}
   - CharacterName: "Z\xE9 do Bode"
     DialogueText: "E tu? Nunca vi ningu\xE9m com esse nome. Por que te chamam de
       Brasilina?"
+    BackgroundSprite: {fileID: 0}
+    DialogueBoxSprite: {fileID: -5861103107579520876, guid: b9855384a85900c4d8df846d8e9fc8af, type: 3}
+    DialogueBoxPosition: {x: 0, y: -360}
   - CharacterName: Brasilina
     DialogueText: "Meus pais disseram que colocaram esse nome porque amam esse lugar.
       Eles vieram do interior faz uns anos. Chegaram aqui junto com outras fam\xEDlias
       pra tentar a vida no Pina."
+    BackgroundSprite: {fileID: 0}
+    DialogueBoxSprite: {fileID: -5861103107579520876, guid: b9855384a85900c4d8df846d8e9fc8af, type: 3}
+    DialogueBoxPosition: {x: 0, y: -360}
