@@ -29,13 +29,13 @@ MonoBehaviour:
     DialogueText: 'Naquele dia, ela sentia uma felicidade diferente: havia completado
       14 anos e, pela primeira vez, seus pais permitiram que caminhasse sozinha pelas
       areias da praia do Pina.'
-    BackgroundSprite: {fileID: -5570708879843500298, guid: 374a4bd7851507442ad3b6d3db598ce5, type: 3}
+    BackgroundSprite: {fileID: -5770199197463646300, guid: e4d9d1f74e71c8a478aabed422476b51, type: 3}
     DialogueBoxSprite: {fileID: -1578018515306247302, guid: bc30a2982c530394fb8686abe1a8e324, type: 3}
-    DialogueBoxPosition: {x: 0, y: 360}
+    DialogueBoxPosition: {x: 440, y: 360}
   - CharacterName: Narrador
     DialogueText: "Enquanto caminhava pela praia apreciando o nascer do sol, Brasilina
       avistou, ao longe, v\xE1rios barcos se aproximando da costa."
-    BackgroundSprite: {fileID: -5770199197463646300, guid: e4d9d1f74e71c8a478aabed422476b51, type: 3}
+    BackgroundSprite: {fileID: 7244901189907721657, guid: 236fdd598861ad44cb6d111658f12243, type: 3}
     DialogueBoxSprite: {fileID: 0}
     DialogueBoxPosition: {x: 440, y: 360}
   - CharacterName: Narrador
